@@ -1,0 +1,1 @@
+Com um outro arquivo, commitar em conjunto na sua branch em questão. Você pode commitar qualquer arquivo de texto, mas deve usar o co-authored-by para fazer o commit
